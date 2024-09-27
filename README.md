@@ -2,8 +2,6 @@
 
 Welcome to **Bookmi**, a responsive Nextjs template theme tailored for Online booking, Listing, Real Estate, and booking systems. Whether you're running an accommodation service, travel experience, cruise, car rental, real estate, or a travel agency, Bookmi has got you covered.
 
-![Bookmi Banner](https://i.ibb.co/JqPfydC/b-landing.png) 
-
 ## 🌟 Features
 
 - **Responsive Design**: Modern and fresh design across all devices.
@@ -36,8 +34,8 @@ Welcome to **Bookmi**, a responsive Nextjs template theme tailored for Online bo
 ## 🙏 Acknowledgements
 
 A big shoutout to all the libraries, plugins, and assets that made this project possible.
+Also to [Hamed Hasan](https://github.com/Hamed-Hasan).
 
 ---
 
-Crafted with ❤️ by [Hamed Hasan](https://github.com/Hamed-Hasan). Connect with me on [LinkedIn](https://www.linkedin.com/in/hamed-hasan).
 # Online-Management-Platform
